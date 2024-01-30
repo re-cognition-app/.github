@@ -1,6 +1,12 @@
 <img src='/img/re-cognition-logo.svg#gh-dark-mode-only' alt='re:cognition'/>
 <img src='/img/re-cognition-logo-dark.svg#gh-light-mode-only' alt='re:cognition'/>
 
+![Static Badge](
+https://img.shields.io/badge/rust-orange?style=for-the-badge&logo=rust)
+![Static Badge](
+https://img.shields.io/badge/react-lightblue?style=for-the-badge&logo=react)
+
+
 Welcome to the shared [**re:cognition**](https://re-cognition.app) community.
 We strive to create socially relevant software which
 promotes and supports a fully inclusive society.
