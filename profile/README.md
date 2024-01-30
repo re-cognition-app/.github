@@ -11,7 +11,8 @@ https://img.shields.io/badge/react%20native-blue?style=for-the-badge&logo=react)
 https://img.shields.io/badge/Open%20AI-grey?style=for-the-badge&logo=openai)
 ![Static Badge](
 https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
+![Static Badge](
+https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
 
 Welcome to the shared [**re:cognition**](https://re-cognition.app) community.
 We strive to create socially relevant software which
