@@ -7,6 +7,8 @@ https://img.shields.io/badge/rust-orange?style=for-the-badge&logo=rust)
 https://img.shields.io/badge/react-darkblue?style=for-the-badge&logo=react)
 ![Static Badge](
 https://img.shields.io/badge/react%20native-blue?style=for-the-badge&logo=react)
+![Static Badge](
+https://img.shields.io/badge/Open%20AI-grey?style=for-the-badge&logo=openai)
 
 
 Welcome to the shared [**re:cognition**](https://re-cognition.app) community.
